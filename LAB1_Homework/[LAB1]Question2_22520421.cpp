@@ -1,4 +1,8 @@
-﻿#include <iostream>
+﻿//MSSV: 22520421
+//Full Name: Nguyen Thuy Hien
+//Lab1_Homework_Ques2
+//Notes or Remarks: ......
+#include <iostream>
 using namespace std;
 
 class BrowserHistory {
